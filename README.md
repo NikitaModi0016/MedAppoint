@@ -1,2 +1,2 @@
-# MediAppoint
-MediAppoint is a comprehensive doctor appointment management system designed to streamline the process of scheduling and managing appointments between doctors and patients.
+# MedAppoint
+MedAppoint is a comprehensive doctor appointment management system designed to streamline the process of scheduling and managing appointments between doctors and patients.
